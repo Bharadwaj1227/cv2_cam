@@ -6,6 +6,7 @@ from kivy.lang import Builder
 import numpy as np
 import cv2
 
+
 from android.permissions import request_permissions, Permission
 import time
 
